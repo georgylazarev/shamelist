@@ -1,2 +1,2 @@
 # shamelist
-it's just a shave list for bloggers
+it's just a shame list for bloggers
